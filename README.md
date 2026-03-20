@@ -1,4 +1,4 @@
-<h1>Hello👋, my name is <span style="color: #904aff">Rebeca Costa</span>.</h1>
+# Hello👋, my name is Rebeca Costa.
 
 🚀 Software Developer | Python & Data Analysis | React.js & Web & Mobile |
 🇧🇷 Brazil
