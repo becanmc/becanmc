@@ -9,10 +9,10 @@ I build **products**, **APPs**, **Websites** and **creative solutions** for vari
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: baseline">
-  <img src="https://github-readme-stats.vercel.app/api?username=becanmc&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&layout=compact" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=becanmc&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" width="300" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=becanmc&theme=midnight-purple&hide_border=false" width="300" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=becanmc&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becanmc&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=becanmc&theme=midnight-purple&hide_border=false" />
 </div>
 
 ## 🧠 What I do
