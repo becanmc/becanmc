@@ -91,12 +91,14 @@ I build **products**, **APPs**, **Websites** and **creative solutions** for vari
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ## 👤 About me
-I'm  Rebeca Costa. Since I was a little kid I'm **passionate about technology**. Programming and studying are some of my favorite things to do, as I genuinely like developing my skills. I am proactive, agile, and principled. I believe in reaching my goals without stepping on anyone else along the way.
+I'm **Rebeca Costa**. Since I was a little kid I'm **passionate about technology**. Programming and studying are some of my favorite things to do, as I genuinely like developing my skills. I am proactive, agile, and principled. I believe in reaching my goals without stepping on anyone else along the way.
 
+- 🎓 I'm currently studying Information Systems at PUC Minas, with expected completion in December 2028!
 - 🔭 I’m currently working on my father's garage app, where it will help him run his auto repair shop & a christian clothing e-commerce with my friend (Kadosh).
 - 🌱 I’m currently learning React Native and improving my Node.js skills.
 - 👯 I’m looking to collaborate on major projects (environment and ecology is one of my biggest dreams).
 - 💬 Ask me about anything!
+- 🧠 Fun fact: I love Radiohead and Thom Yorke is my brother (in my mind lol).
 - 📫 How to reach me: rebecanmcosta@gmail.com | +55 (31) 98676-5308 | [LinkedIn Profile](https://www.linkedin.com/in/becanmc/) |
 
 ## 📞 Contact
