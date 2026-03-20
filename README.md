@@ -3,8 +3,15 @@
 🚀 Software Developer | Python & Data Analysis | React.js & Web & Mobile |
 🇧🇷 Brazil
 
-
 I build **products**, **APPs**, **Websites** and **creative solutions** for various problems. I'm deeply focused in **back-end development**, **data analysis**, web and mobile interface creation (prototyping and development), **API** and **database integration**, and I know some things about **design** and **UI/UX**.
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=becanmc&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becanmc&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=becanmc&theme=midnight-purple&hide_border=false" />
+</div>
 
 ## 🧠 What I do
 - ⚙️ Back-end development of apps and interfaces in **Python**
@@ -82,15 +89,6 @@ I build **products**, **APPs**, **Websites** and **creative solutions** for vari
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=becanmc&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becanmc&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=becanmc&theme=midnight-purple&hide_border=false" />
-</div>
-
 
 ## 👤 About me
 I'm  Rebeca Costa. Since I was a little kid I'm **passionate about technology**. Programming and studying are some of my favorite things to do, as I genuinely like developing my skills. I am proactive, agile, and principled. I believe in reaching my goals without stepping on anyone else along the way.
