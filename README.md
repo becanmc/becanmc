@@ -110,4 +110,8 @@ I'm **Rebeca Costa**. Since I was a little kid I'm **passionate about technology
 
 🤝 Always open to collaborations, partnerships, and cool ideas!'
 
-![snake gif](https://github.com/becanmc/becanmc/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  
+![Snake Gif](https://github.com/becanmc/becanmc/blob/output/github-snake-dark.svg)
+
+</div>
