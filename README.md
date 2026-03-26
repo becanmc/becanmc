@@ -9,7 +9,7 @@ I build **products**, **APPs**, **Websites** and **creative solutions** for vari
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=becanmc&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&layout=compact" alt="API may be down temporarily." onerror="this.remove();"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becanmc&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="API may be down temporarily." onerror="this.remove();" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becanmc&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="API may be down temporarily." onerror="this.style.visibility='hidden'" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=becanmc&theme=midnight-purple&hide_border=false" alt="API may be down temporarily." onerror="this.remove();" />
 </div>
 
