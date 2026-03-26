@@ -8,9 +8,9 @@ I build **products**, **APPs**, **Websites** and **creative solutions** for vari
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=becanmc&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&layout=compact" alt="API may be down temporarily. />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becanmc&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="API may be down temporarily. />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=becanmc&theme=midnight-purple&hide_border=false" alt="API may be down temporarily. "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=becanmc&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&layout=compact" alt="API may be down temporarily." />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becanmc&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="API may be down temporarily." />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=becanmc&theme=midnight-purple&hide_border=false" alt="API may be down temporarily."/>
 </div>
 
 ## 🧠 What I do
